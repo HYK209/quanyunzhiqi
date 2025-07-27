@@ -92,7 +92,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '城市中心，文化地标',
       duration: '30分钟',
       tips: '适合拍照留念',
-      image: 'https://p3.ssl.qhimgs1.com/t017938f0121514f49d.jpg'
+      image: 'https://p2.ssl.qhimgs1.com/t043517af89a59ad5d2.jpg'
     },
     {
       id: '4',
