@@ -92,7 +92,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '城市中心，文化地标',
       duration: '30分钟',
       tips: '适合拍照留念',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxbzw8F6A.jpg'
+      image: 'https://699pic.com/tupian-500454137.html'
     },
     {
       id: '4',
@@ -100,7 +100,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '虎啸泉涌，声震四方',
       duration: '45分钟',
       tips: '可以打泉水带走',
-      image: 'https://youimg1.c-ctrip.com/target/100o0z000000n5xzw010C.jpg'
+      image: 'https://gs.ctrip.com/webapp/you/sight/photos/jinan128/r4975-120189068.html#'
     },
     {
       id: '5',
@@ -108,7 +108,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '革命纪念，历史见证',
       duration: '30分钟',
       tips: '登高望远，俯瞰泉城',
-      image: 'https://n.sinaimg.cn/sinacn20116/213/w2048h1365/20190425/0b5e-hvhiqax4904280.jpg'
+      image: 'https://p0.ssl.qhimgs1.com/t01043cba46899d7460.jpg'
     },
     {
       id: '6',
@@ -116,7 +116,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '传统商街，美食天堂',
       duration: '2小时',
       tips: '晚餐首选，品尝鲁菜',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc0w2E1B.jpg'
+      image: 'https://dimg04.c-ctrip.com/images/1A08190000015mhg83D3B.jpg'
     },
     {
       id: '7',
@@ -124,7 +124,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '古街流水，诗意栖居',
       duration: '1小时',
       tips: '夜景更美，适合漫步',
-      image: 'https://n.sinaimg.cn/sinakd20113/762/w1000h562/20230525/ba96-814fb69e446ec5569624ba8466b8c211.jpg'
+      image: 'https://p3.ssl.qhimgs1.com/t016f9dc3b54fef63c9.jpg'
     },
     {
       id: '8',
@@ -132,7 +132,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '四面荷花三面柳',
       duration: '1.5小时',
       tips: '可乘船游湖',
-      image: 'https://tr-osdcp.qunarzz.com/tr-osd-tr-space/img/77d3d6af91fc8a213b2ce05a07e1f9cd.jpg_r_1360x1360x95_9aba5968.jpg'
+      image: 'https://youimg1.c-ctrip.com/target/10040v000000k1u1m3901_R_671_10000_Q90.jpg'
     },
     {
       id: '9',
@@ -140,7 +140,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '湖心古楼，超然物外',
       duration: '30分钟',
       tips: '夜晚灯光璀璨',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc1w7B3D.jpg'
+      image: 'https://p2.ssl.qhimgs1.com/t0436535537d6c93c48.jpg'
     }
   ];
 
@@ -152,7 +152,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '哥特建筑，宗教文化',
       duration: '45分钟',
       tips: '建筑摄影绝佳地点',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc2w9A5E.jpg'
+      image: 'http://k.sinaimg.cn/n/sinacn10100/400/w720h480/20190621/882a-hyrtarw8109755.jpg/w700d1q75cms.jpg?by=cms_fixed_width'
     },
     {
       id: '11',
@@ -160,7 +160,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '现代商业，购物休闲',
       duration: '2小时',
       tips: '购物用餐一站式',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc3wB67F.jpg'
+      image: 'https://photo.tuchong.com/2654050/f/388679462.jpg'
     },
     {
       id: '12',
@@ -168,7 +168,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '齐鲁文化，历史珍藏',
       duration: '2.5小时',
       tips: '需预约，周一闭馆',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc4wD28G.jpg'
+      image: 'https://image.maigoo.com/upload/images/20190531/13512853427_1200x800.jpg_1024_1024.jpg'
     },
     {
       id: '13',
@@ -176,7 +176,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '古典园林，文化体验',
       duration: '1.5小时',
       tips: '适合下午游览',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc5wF89H.jpg'
+      image: 'https://p3.ssl.qhimgs1.com/t01f0dadecc61f616d3.jpg'
     },
     {
       id: '14',
@@ -184,7 +184,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '百年商埠，历史街区',
       duration: '1小时',
       tips: '感受老济南风情',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc6wH4AI.jpg'
+      image: 'https://p0.ssl.qhimgs1.com/t046ddcf977c1493f04.jpg'
     },
     {
       id: '15',
@@ -192,7 +192,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '城市绿肺，休闲胜地',
       duration: '1小时',
       tips: '适合傍晚散步',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc7wJ5BJ.jpg'
+      image: 'https://p2.ssl.qhimgs1.com/t04c3bac55c20d37cbc.jpg'
     },
     {
       id: '16',
@@ -200,7 +200,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '夜市文化，美食聚集',
       duration: '2小时',
       tips: '夜晚必去，体验夜生活',
-      image: 'https://youimg1.c-ctrip.com/target/100c0z000000mxc8wL6CK.jpg'
+      image: 'https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2024%2F0616%2F1b233c60j00sf54x0002md000u000k0g.jpg&thumbnail=660x2147483647&quality=80&type=jpg'
     }
   ];
 
