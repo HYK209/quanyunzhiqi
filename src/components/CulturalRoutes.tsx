@@ -92,7 +92,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '城市中心，文化地标',
       duration: '30分钟',
       tips: '适合拍照留念',
-      image: 'https://699pic.com/tupian-500454137.html'
+      image: 'https://p3.ssl.qhimgs1.com/t017938f0121514f49d.jpg'
     },
     {
       id: '4',
@@ -100,7 +100,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '虎啸泉涌，声震四方',
       duration: '45分钟',
       tips: '可以打泉水带走',
-      image: 'https://gs.ctrip.com/webapp/you/sight/photos/jinan128/r4975-120189068.html#'
+      image: 'https://preview.qiantucdn.com/auto_machine/20211115/c11a6d59-d759-4c42-8df7-e66d1250d8a6.jpg!w1024_new_small'
     },
     {
       id: '5',
@@ -124,7 +124,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '古街流水，诗意栖居',
       duration: '1小时',
       tips: '夜景更美，适合漫步',
-      image: 'https://p3.ssl.qhimgs1.com/t016f9dc3b54fef63c9.jpg'
+      image: 'https://photo.tuchong.com/18235848/f/341825397.jpg'
     },
     {
       id: '8',
@@ -176,7 +176,7 @@ const CulturalRoutes: React.FC<CulturalRoutesProps> = ({ onBack }) => {
       description: '古典园林，文化体验',
       duration: '1.5小时',
       tips: '适合下午游览',
-      image: 'https://p3.ssl.qhimgs1.com/t01f0dadecc61f616d3.jpg'
+      image: 'https://p0.ssl.qhimgs1.com/t017a4227a7078d41c0.jpg'
     },
     {
       id: '14',
